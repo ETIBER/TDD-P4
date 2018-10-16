@@ -1,0 +1,17 @@
+{
+  "name": "tdd-p4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "FBL&ETBE",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0"
+  }
+}
