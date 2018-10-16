@@ -1,0 +1,19 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="actualites" type="HTML" />
+      <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="scripts" type="PLAIN_TEXT" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
+      <mapping pattern=".jekyll-metadata" type="PLAIN_TEXT" />
+      <mapping pattern="min" type="PLAIN_TEXT" />
+      <mapping pattern="politique-logiciel-libre" type="PLAIN_TEXT" />
+      <mapping pattern="carte_double" type="PLAIN_TEXT" />
+      <mapping pattern="test2" type="PLAIN_TEXT" />
+      <mapping pattern="services-usagers" type="PLAIN_TEXT" />
+      <mapping pattern="mailBuilder" type="PLAIN_TEXT" />
+      <mapping pattern="mailServices" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

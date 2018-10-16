@@ -1,0 +1,12 @@
+<templateSet group="user">
+  <template name="gwt" value="it('', function() {&#10;            // GIVEN&#10;            &#10;            // WHEN&#10;            &#10;            // THEN&#10;            &#10;        });" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+  <template name="de" value="describe('#()', function () {&#10;        &#10;    });" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>
