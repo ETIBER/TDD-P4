@@ -9,4 +9,10 @@
       <option name="JS_STATEMENT" value="true" />
     </context>
   </template>
+  <template name="co" value="context('$end$',function () {&#10;            &#10;        });" toReformat="true" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
 </templateSet>
