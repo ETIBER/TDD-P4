@@ -20,13 +20,4 @@
       </entry>
     </option>
   </component>
-  <component name="TextDiffSettings">
-    <option name="PLACES_MAP">
-      <entry key="TestsFiledAssertions">
-        <PlaceSettings>
-          <option name="IGNORE_POLICY" value="IGNORE_WHITESPACES_CHUNKS" />
-        </PlaceSettings>
-      </entry>
-    </option>
-  </component>
 </application>
