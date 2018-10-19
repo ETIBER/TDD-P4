@@ -28,7 +28,7 @@ module.exports = class Analyser {
         } else {
             return false;
         }
-    }Æ
+    }
     _analyse(coordinateX, coordinateY, tokenColor,callback) {
         for (let cell = 1; cell < 4; cell ++) {
             if (callback(coordinateX, coordinateY,cell,tokenColor)) {
