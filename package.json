@@ -1,0 +1,26 @@
+{
+  "name": "tdd-p4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ETIBER/TDD-P4.git"
+  },
+  "author": "etbe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ETIBER/TDD-P4/issues"
+  },
+  "homepage": "https://github.com/ETIBER/TDD-P4#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
