@@ -19,7 +19,7 @@
   <template name="bf" value="before(() =&gt; {&#10;  $END$&#10;});" description="Inserts before() block" toReformat="true" toShortenFQNames="true">
     <context />
   </template>
-  <template name="co" value="context('$NAME$', () =&gt; {&#10;  $END$&#10;});" toReformat="true" toShortenFQNames="true">
+  <template name="co" value="context('$NAME$', () =&gt; {&#10;  $END$&#10;});" description="" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
