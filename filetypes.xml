@@ -13,6 +13,7 @@
       <mapping pattern="services-usagers" type="PLAIN_TEXT" />
       <mapping pattern="mailBuilder" type="PLAIN_TEXT" />
       <mapping pattern="mailServices" type="PLAIN_TEXT" />
+      <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
