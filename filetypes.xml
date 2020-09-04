@@ -6,6 +6,7 @@
       <mapping pattern="scripts" type="PLAIN_TEXT" />
       <mapping pattern="politique-logiciel-libre" type="PLAIN_TEXT" />
       <mapping pattern="mailBuilder" type="PLAIN_TEXT" />
+      <mapping pattern="add-offer-segment-to-offer-without-segment" type="PLAIN_TEXT" />
       <mapping pattern="carte_double" type="PLAIN_TEXT" />
       <mapping pattern="test2" type="PLAIN_TEXT" />
       <mapping pattern=".jekyll-metadata" type="PLAIN_TEXT" />
