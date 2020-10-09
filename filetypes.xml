@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="actualites" type="HTML" />
       <mapping pattern="test" type="PLAIN_TEXT" />
+      <mapping pattern="offer-description-logo" type="PLAIN_TEXT" />
       <mapping pattern="scripts" type="PLAIN_TEXT" />
       <mapping pattern="politique-logiciel-libre" type="PLAIN_TEXT" />
       <mapping pattern="mailBuilder" type="PLAIN_TEXT" />
