@@ -1,5 +1,19 @@
 <application>
   <component name="StringManipulationState">
+    <option name="columnAlignerHistory">
+      <list>
+        <ColumnAlignerModel>
+          <option name="added" value="1602688240740" />
+          <option name="columnSortOrder" value="" />
+          <option name="maxSeparatorsPerLine" value="" />
+          <option name="separators">
+            <list>
+              <option value="|" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+      </list>
+    </option>
     <option name="version" value="2" />
   </component>
 </application>
