@@ -21,6 +21,6 @@
   "homepage": "https://github.com/ETIBER/TDD-P4#readme",
   "dependencies": {
     "chai": "^4.2.0",
-    "mocha": "^5.2.0"
+    "mocha": "^10.2.0"
   }
 }
